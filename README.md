@@ -3,9 +3,10 @@ Here i am including my code assignment
 
 
 Firstly i am splitting the Animals into Birds and Animals,then further split Birds based on functionality. 
+(Refer Attachment: Assign1.png)
 
 
-After that i do split and test each and individual and create a document for that.
+After that i do split and test each and individual and create a document for that.(Refer Attachment: Assign2.png)
 
 
 In section A:
